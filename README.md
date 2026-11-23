@@ -1,8 +1,8 @@
-# Hi there, I'm Fini Thaya 👋
+# Hi there, I'm Fini Thaya Shanges 👋
 
-### Aspiring Software Developer | B.E Computer Science
+### Software Developer | B.E Computer Science Graduate
 
-I'm a Computer Science student from Kanyakumari, Tamil Nadu, passionate about building real-world applications with Java and Spring Boot.
+I'm a Computer Science Graduate from Kanyakumari, Tamil Nadu, passionate about building real-world applications with Java and Spring Boot.
 
 ** Currently Learning:**
 - ☕ Java
@@ -17,4 +17,4 @@ I'm a Computer Science student from Kanyakumari, Tamil Nadu, passionate about bu
 **Let's Connect:**
 - 📧 Email: tsfini831@gmail.com
 
-> "Learning by building, one project at a time."
+> "Focused on building clean, real-world applications."
