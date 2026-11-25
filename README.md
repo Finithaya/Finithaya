@@ -13,8 +13,8 @@ Technical Skills
 
 Projects
 
+- Blockchain-Based Voting System
 - Inventory & Stock Management System
-- Employee Management System
 - Online POS System
 
 Let's Connect
