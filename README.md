@@ -1,20 +1,22 @@
-# Hi there, I'm Fini Thaya Shanges 👋
+Hi, I'm Fini Thaya Shanges 👋
 
-### Software Developer | B.E Computer Science Graduate
+Software Developer | B.E. Computer Science Graduate
 
-I'm a Computer Science Graduate from Kanyakumari, Tamil Nadu, passionate about building real-world applications with Java and Spring Boot.
+I'm a Computer Science graduate interested in building web applications using Java, Spring Boot, PHP, and Laravel. I enjoy developing practical applications and improving my technical skills through projects.
 
-** Currently Learning:**
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ MySQL
-- 🌐 HTML, CSS, JavaScript
+Technical Skills
 
-** What I'm working on:**
-- 🚀 Building full-stack projects with Java + Spring Boot
-- 📚 Strengthening Data Structures & Algorithms
+- Programming Languages: Java, PHP
+- Backend: Spring Boot, Laravel, JDBC, Hibernate
+- Web Technologies: HTML, CSS, JavaScript
+- Database: MySQL
 
-**Let's Connect:**
-- 📧 Email: tsfini831@gmail.com
+Projects
 
-> "Focused on building clean, real-world applications."
+- Inventory & Stock Management System
+- Employee Management System
+- Online POS System
+
+Let's Connect
+
+- Email: tsfini831@gmail.com
